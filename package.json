@@ -1,0 +1,15 @@
+{
+  "name": "ipl-social",
+  "version": "1.0.0",
+  "description": "Validation de mot de passe avec TDD (Jest) et CI GitHub Actions",
+  "main": "passwordChecker.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
