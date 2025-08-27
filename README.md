@@ -1,9 +1,9 @@
 # IPL Social
 
 ## Auteur
-- Nom : **À compléter**
-- Prénom : **À compléter**
-- Email Vinci : **prenom.nom@vinci.be**
+- Nom : EL haddaoui
+- Prénom : Abdellah
+- Email Vinci : abdellah.elhaddaoui@student.vinci.be
 
 ## Lien du projet
 **À compléter** (URL GitHub du dépôt, ex. https://github.com/moncompte/ipl-social)
